@@ -13,3 +13,9 @@ We put in our repository two file one with python format and another one a Jupit
 
 ## More Comments
 Because two of our group have a management background obtained during the bachelor degree course, we tried to explain and comment the results obtained by focusing on the relationships between e-commerce and typical customers.
+
+## Collaborators
+Name:                 Enrollment ID:
+Paola Antonicoli      1796554
+Antonio Zappia        1747573
+Francesco Lauro       1706784
